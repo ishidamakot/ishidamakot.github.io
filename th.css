@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+.music .thumb {
+  float: left;
+}
+.music .clear {
+  clear: both;
+}
